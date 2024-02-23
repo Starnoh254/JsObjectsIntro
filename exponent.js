@@ -13,3 +13,5 @@ function exponent (base , exp){
 }
 
 console.log(exponent(7,2))
+
+
